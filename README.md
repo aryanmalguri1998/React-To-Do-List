@@ -1,18 +1,18 @@
 # **React To-Do List**
 
 
-**Project Overview:**
+## :zap: **Project Overview:**
 The React To-Do List project is a simple, yet powerful application designed to help users manage their daily tasks efficiently. The app allows users to add, edit, and delete tasks, ensuring they can keep track of their to-dos easily. This project serves as a practical example of building a React application with essential features and user interactions.
 
-**Features**
+## :bell: **Features**
 
-i> Add new tasks to the to-do list
-ii> Edit existing tasks
-iii> Delete tasks from the list
-iv> Mark tasks as completed
-v> Responsive design for optimal viewing on different devices
+i> Add new tasks to the to-do list  <br/> 
+ii> Edit existing tasks  <br/>
+iii> Delete tasks from the list  <br/>
+iv> Mark tasks as completed  <br/>
+v> Responsive design for optimal viewing on different devices  <br/>
 
-:star:**React Concepts Learned** 
+## :star: **React Concepts Learned** 
 
 Through this project, the following key React concepts and techniques were learned and applied:
 
